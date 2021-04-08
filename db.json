@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Product Item 2",
+      "description": "Product Item 2!",
+      "quantity": 250,
+      "price": "260:00",
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Product Item 3",
+      "description": "Product Item 3!",
+      "quantity": 250,
+      "price": "450:00",
+      "available": true
+    },
+    {
+      "name": "Test Prod",
+      "description": "Test Products",
+      "id": 4,
+      "available": true
+    },
+    {
+      "name": "Test Prod 2",
+      "description": "Test Products",
+      "available": true,
+      "id": 5
+    }
+  ]
+}
